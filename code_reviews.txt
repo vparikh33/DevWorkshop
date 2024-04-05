@@ -1,2 +1,7 @@
-1. Similarities: 
-   Differences: 
+1. Similarities: attempt to be as clear and concise as possible, critique the code itself (not the writer)
+   Differences: Microsoft focuses more on *how* to critique, while Yelp focuses more on *what* to critique
+   In general, code reviews should be very concise and limited to the code at-hand. Also, it's very important to review the core logic and design of the code, but also the style.
+2. https://codereview.stackexchange.com/questions/1973/remove-last-comma
+   In our opinion, this is a good code review. The OP submitted the appropriate cut of their code, asked a clear question, and many people responded thoroughly, but concisely.
+3. https://codereview.stackexchange.com/questions/287359/shrink-an-array-of-double-elements-uniformly
+   We think this is a bad code review. OP doesn't have a very specific question they are asking but chose to upload all of their code. Also, the people who responded gave very unhelping feedback:    they open the first sentence with "I don't understand the first loop."
